@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and its frameworks
 - 💞️ I’m looking to collaborate on projects made in Flask, Django, NodeJS and React.
-- 📫 How to reach me: lucas@fi.com
+- 📫 How to reach me: lucas@fi.com.py
 [Twitter](https://twitter.com/lucasvegap), [Instagram](https://www.instagram.com/lucas_vegap/), [Repl.it](https://replit.com/@LucasVega777).
 
 <!---
