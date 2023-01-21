@@ -1,5 +1,9 @@
 # 💫 About Me:
-* 👋 Hi, I’m @lucasvega7<br>* 👀 I’m interested in Web Development<br>* 🌱 I’m currently learning JavaScript and its frameworks<br>* 💞️ I’m looking to collaborate on projects made in Flask, Django, NodeJS and React.<br>* 📫 How to reach me: lucas@fi.com.py<br>[Twitter](https://twitter.com/lucasvegap), [Instagram](https://www.instagram.com/lucas_vegap/), [Repl.it](https://replit.com/@LucasVega777).<br>
+* 👋 Hi, I’m @lucasvega7<br>
+* 👀 I’m interested in Web Development<br>
+* 🌱 I’m currently learning JavaScript and its frameworks<br>
+* 💞️ I’m looking to collaborate on projects made in Flask, Django, NodeJS and React.<br>
+* 📫 How to reach me: lucas@fi.com.py<br>[Twitter](https://twitter.com/lucasvegap), [Instagram](https://www.instagram.com/lucas_vegap/), [Repl.it](https://replit.com/@LucasVega777).<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucas.vega.927758) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas_vegap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasmvegap) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/elevegap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lucasvegap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@elevega6423) 
